@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" --data-binary @song.json http://160.85.252.22:30000
