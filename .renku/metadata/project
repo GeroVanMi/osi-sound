@@ -1,0 +1,33 @@
+{
+  "@renku_data_type": "renku.domain_model.project.Project",
+  "@renku_oid": "project",
+  "agent_version": "1.10.0",
+  "annotations": [],
+  "automated_update": true,
+  "creator": {
+    "@renku_data_type": "renku.domain_model.provenance.agent.Person",
+    "@renku_data_value": {
+      "affiliation": null,
+      "alternate_name": null,
+      "email": "gerome.meyer@icloud.com",
+      "id": "mailto:gerome.meyer@icloud.com",
+      "name": "Gerome Meyer"
+    }
+  },
+  "date_created": {
+    "@renku_data_type": "datetime.datetime",
+    "@renku_data_value": "2022-12-20T09:19:47+01:00"
+  },
+  "description": null,
+  "id": "/projects/GeroVanMi/osi-sound",
+  "immutable_template_files": [],
+  "keywords": [],
+  "minimum_renku_version": "1.7.0",
+  "name": "osi-sound",
+  "template_id": "python-minimal",
+  "template_metadata": "{\"__template_source__\": \"renku\", \"__template_ref__\": \"0.3.1\", \"__template_id__\": \"python-minimal\", \"__namespace__\": \"GeroVanMi\", \"__sanitized_project_name__\": \"\", \"__repository__\": \"\", \"__project_slug__\": \"\", \"__project_description__\": null, \"__renku_version__\": \"1.10.0\", \"__name__\": \"osi-sound\", \"name\": \"osi-sound\", \"__template_version__\": \"0.3.1\", \"__automated_update__\": true}",
+  "template_ref": "0.3.1",
+  "template_source": "renku",
+  "template_version": "0.3.1",
+  "version": 9
+}
